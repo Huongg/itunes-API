@@ -8,5 +8,5 @@ const fetching_API = () => {
       })
 }
 
-// module.exports.fetching_API = fetching_API;
-export default fetching_API;
+module.exports.fetching_API = fetching_API;
+// export default fetching_API;
